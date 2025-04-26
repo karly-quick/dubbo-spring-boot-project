@@ -30,7 +30,7 @@
     <name>Apache Dubbo Spring Boot :: Samples :: Registry Nacos :: Consumer Sample</name>
 
     <properties>
-        <nacos.version>1.2.1</nacos.version>
+        <nacos.version>3.0.0</nacos.version>
     </properties>
 
     <dependencies>
